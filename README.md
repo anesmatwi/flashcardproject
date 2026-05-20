@@ -20,8 +20,5 @@ This project was developed to automate the creation of board-style pathology fla
 * **Libraries:** PyTorch, Hugging Face Transformers, PEFT, FAISS, LangChain, SentenceTransformers
 * **Frameworks:** FastAPI, Jupyter
 
-## Setup and Installation
-[Provide instructions on creating a virtual environment, installing requirements.txt, and setting up the `.env` file for API keys.]
-
 ## Hardware Notes
 This pipeline was designed to be orchestrated locally, taking advantage of a multi-GPU pool for parallel inference during dataset generation and model evaluation.
