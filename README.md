@@ -21,4 +21,4 @@ This project was developed to automate the creation of board-style pathology fla
 * **Frameworks:** FastAPI, Jupyter
 
 ## Hardware Notes
-This pipeline was designed to be orchestrated locally, taking advantage of a multi-GPU pool for parallel inference during dataset generation and model evaluation.
+This pipeline was designed to be orchestrated locally, taking advantage of a single GPU for inference during dataset generation and model evaluation.
