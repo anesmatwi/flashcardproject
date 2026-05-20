@@ -1,0 +1,34 @@
+# Document parsing and chunking
+PyMuPDF>=1.23.0
+EbookLib>=0.18
+beautifulsoup4>=4.12.0
+pdf2image>=1.16.3
+Pillow>=10.0.0
+pytesseract>=0.3.10
+fpdf>=1.7.2
+
+# Machine Learning & AI Inference
+torch>=2.0.0
+transformers>=4.38.0
+peft>=0.9.0
+bitsandbytes>=0.42.0
+sentence-transformers>=2.5.0
+faiss-cpu>=1.8.0
+llama-cpp-python>=0.2.55
+google-generativeai>=0.4.0
+
+# API and Utilities
+tqdm>=4.66.2
+fastapi>=0.110.0
+pydantic>=2.6.0
+requests>=2.31.0
+biopython>=1.83
+google-search-results>=2.4.2
+python-dotenv>=1.0.0
+
+# Evaluation Metrics
+evaluate>=0.4.1
+scikit-learn>=1.4.0
+pandas>=2.2.0
+textstat>=0.7.3
+nltk>=3.8.1
